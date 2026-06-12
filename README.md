@@ -3,7 +3,7 @@
   
   <!-- ANIMACIÓN PROFESIONAL: Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Development+Economist;Causal+Inference+%26+Machine+Learning;Big+Data+%26+Public+Policy;Evaluador+de+Impacto+%26+Ciencia+de+Datos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Econometrics;Macroeconomic+Policy;Development+Economist;Causal+Inference+%26+Machine+Learning;Big+Data+%26+Public+Policy;Evaluador+de+Impacto+%26+Ciencia+de+Datos" alt="Typing SVG" />
   </a>
   <br>
 
@@ -26,21 +26,22 @@
     <td width="50%" valign="top">
       <b>🇬🇧 English</b><br><br>
       Economist with high-level experience in the public sector and legislative economic policy (Bolivia), specialized in <b>Impact Evaluation</b> and <b>Data Science</b> (FLACSO Ecuador). My work bridges the gap between macroeconomic policy, legislative frameworks, and data-driven decision making. <br><br>
-      I leverage advanced econometrics and modern machine learning to solve complex public policy challenges, from evaluating sovereign credit lines (KfW, AFD) to analyzing banking regulation, ecological economics, and legislative text data.
+      I leverage advanced econometrics and modern machine learning to solve complex public policy challenges, from evaluating sovereign credit lines (KfW, AFD) to analyzing banking regulation, ecological economics, and macroeconomic time series forecasting.
     </td>
     <td width="50%" valign="top">
       <b>🇪🇸 Español</b><br><br>
       Economista con experiencia de alto nivel en el sector público y política económica legislativa (Bolivia), especializado en <b>Evaluación de Impacto</b> y <b>Ciencia de Datos</b> (FLACSO Ecuador). Mi trabajo tiende un puente entre la política macroeconómica, el marco legislativo y la toma de decisiones basada en datos.<br><br>
-      Utilizo econometría avanzada y machine learning moderno para resolver retos complejos de política pública, desde la evaluación de créditos soberanos (KfW, AFD) hasta la regulación bancaria, economía ecológica y análisis de textos legislativos.
+      Utilizo econometría avanzada y machine learning moderno para resolver retos complejos de política pública, desde la evaluación de créditos soberanos (KfW, AFD) hasta la regulación bancaria, economía ecológica y pronóstico de series temporales macroeconómicas.
     </td>
   </tr>
 </table>
 
+
 ### 🎯 Focus & Expertise / Enfoque y Experiencia
 
 - 🔬 **Current Research / Investigación Actual:** Impact Evaluation applied to development projects & Ecological Economics / *Evaluación de Impacto aplicada a proyectos de desarrollo y Economía Ecológica.*
-- 💻 **Tech Stack / Tecnologías:** Expert in Python & Stata. Proficient in R & Spatial Data / *Experto en Python y Stata. Competente en R y datos espaciales.*
-- 🧠 **Core Areas / Áreas Clave:** Causal Machine Learning, NLP (RAG, Langchain) for Public Policy, Spatial Economics, Dynamic Panels / *Machine Learning Causal, PLN para Políticas Públicas, Economía Espacial, Paneles Dinámicos.*
+- 💻 **Tech Stack / Tecnologías:** Expert in Python & Stata. Proficient in R, EViews & Spatial Data / *Experto en Python y Stata. Competente en R, EViews y datos espaciales.*
+- 🧠 **Core Areas / Áreas Clave:** Causal Machine Learning, Macroeconomic Time Series, Spatial Economics, Dynamic Panels, NLP for Public Policy / *Machine Learning Causal, Series Temporales Macro, Economía Espacial, Paneles Dinámicos, PLN.*
 
 ---
 
@@ -50,6 +51,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1E4D8C?style=for-the-badge&logo=stata&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![EViews](https://img.shields.io/badge/EViews-005b9f?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Machine Learning, NLP & Big Data
@@ -61,7 +63,6 @@
 ### Spatial Data & Visualization
 ![Google Earth Engine](https://img.shields.io/badge/Earth_Engine-FA0F00?style=for-the-badge&logo=google&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
 ---
 
 ## 📊 GitHub Analytics
