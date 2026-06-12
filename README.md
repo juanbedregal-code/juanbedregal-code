@@ -3,7 +3,7 @@
   
   <!-- ANIMACIÓN PROFESIONAL: Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Econometrics;Macroeconomic+Policy;Development+Economist;Causal+Inference+%26+Machine+Learning;Big+Data+%26+Public+Policy;Evaluador+de+Impacto+%26+Ciencia+de+Datos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Econometrics;Development+Economist;Causal+Inference+%26+Machine+Learning;Macroeconomic+Policy;Big+Data+%26+Public+Policy;Evaluador+de+Impacto+%26+Ciencia+de+Datos" alt="Typing SVG" />
   </a>
   <br>
 
