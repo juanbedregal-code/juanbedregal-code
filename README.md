@@ -83,8 +83,8 @@
   <a href="https://github.com/juanbedregal-code/causal-ml-social-security-bo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanbedregal-code&repo=causal-ml-social-security-bo&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Causal ML" />
   </a>
-  <a href="https://github.com/juanbedregal-code/banking-regulation-econometrics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanbedregal-code&repo=banking-regulation-econometrics&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Banking Econometrics" />
+  <a href="https://github.com/juanbedregal-code/banking-regulation-econometrics-ecu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanbedregal-code&repo=banking-regulation-econometrics-ecu&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Banking Econometrics" />
   </a>
 </div>
 <div align="center">
