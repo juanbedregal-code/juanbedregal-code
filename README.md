@@ -88,8 +88,8 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/juanbedregal-code/public-policy-nlp-rag">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanbedregal-code&repo=public-policy-nlp-rag&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="NLP RAG" />
+  <a href="https://github.com/juanbedregal-code/public-policy-news-scraping">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanbedregal-code&repo=public-policy-news-scraping&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="NLP RAG" />
   </a>
   <a href="https://github.com/juanbedregal-code/spatial-econ-mining">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanbedregal-code&repo=spatial-econ-mining&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Spatial Economics" />
